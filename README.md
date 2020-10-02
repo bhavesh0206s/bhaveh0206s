@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 A student developer from the class 2022.
+- 🔭 A student developer from the class of 2022.
 - 🌱 I’m an Software Developer
 - 👨‍💻 Working on both front-end and back-end, mostly on front-end
 - 📫 How to reach me: On mail :   [bhaveshsuthar0299@gmail.com](bhaveshsuthar0299@gmail.com)
