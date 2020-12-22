@@ -3,19 +3,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh0206s&label=Profile Views&color=blue&style=plastic" alt="bhavesh" /></p>
 
 <a href="https://twitter.com/bhavesh0206s">
-  <img align="left" alt="Bhavesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Bhavesh's Twitter" style="color: white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/bhavesh-suthar/">
-  <img align="left" alt="Bhavesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Bhavesh's Linkdein"  style="color: white"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/bhavesh0206s">
-  <img align="left" alt="Bhavesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Bhavesh's Github"  style="color: white"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/bhavesh02">
-  <img align="left" alt="Bhavesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Bhavesh's Telegram"  style="color: white"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/bhavesh0206/">
-  <img align="left" alt="Bhavesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Bhavesh's Instagram"  style="color: white"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
