@@ -21,11 +21,9 @@
 <br/>
 <br/>
 
-- 🔭 A student developer from the class of 2022.
 - 🌱 I’m an Software Developer
 - 👨‍💻 Working on both front-end and back-end, mostly on front-end
 - 📫 How to reach me: On mail :   [bhaveshsuthar0299@gmail.com](bhaveshsuthar0299@gmail.com)
-- 😄 Pronouns: He/His
 
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhavesh-2648ff?style=flat-square&logo=google-chrome)](https://bhavesh0206s.github.io/)
